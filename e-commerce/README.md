@@ -1,5 +1,5 @@
-# primefor-2022-staj-Ebubekir Yıldırım
-primefor-2022-staj-bekir7 created by GitHub Classroom
+#-Ebubekir Yıldırım
+
 ## Project Name
 ÜrünlerBurada
 ## Installation
